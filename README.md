@@ -16,7 +16,7 @@ Segment customers according to income and spending patterns to identify high-val
 4. How should marketing engage each segment?
 
 ## Dataset
-`Mall_Customers.csv` — 200 customers, with:
+`Mall_Customers.csv` 200 customers, with:
 - CustomerID
 - Gender
 - Age
@@ -48,6 +48,16 @@ Segment customers according to income and spending patterns to identify high-val
 - pandas
 - matplotlib
 - scikit-learn (KMeans)
+
+## Skills Demonstrated
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- K-Means Clustering
+- Feature Selection
+- Cluster Interpretation
+- Business Strategy
 
 ## How to run
 1. Place `Mall_Customers.csv` in the same directory (or update the file path in the load cell).
