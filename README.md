@@ -44,10 +44,10 @@ Segment customers according to income and spending patterns to identify high-val
 - female customers dominate
 
 ## Tech stack
-Python
-pandas
-matplotlib
-scikit-learn (KMeans)
+- Python
+- pandas
+- matplotlib
+- scikit-learn (KMeans)
 
 ## How to run
 1. Place `Mall_Customers.csv` in the same directory (or update the file path in the load cell).
